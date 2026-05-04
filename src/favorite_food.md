@@ -1,4 +1,7 @@
 # favorite food
 
 apple
-icecream
+
+orange
+banana
+peach
